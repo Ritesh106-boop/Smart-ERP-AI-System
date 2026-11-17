@@ -26,10 +26,10 @@ SmartERP AI is a full-stack, role-based academic ERP system designed for Student
    ```env
    PORT=3001
    DB_HOST=localhost
-   DB_USER=root
-   DB_PASSWORD=Ritesh@123
+   DB_USER=####
+   DB_PASSWORD=####
    DB_NAME=smarterp
-   JWT_SECRET=smarterp_secret_key_2024_very_secure
+   JWT_SECRET=####
    ```
 4. Run the database migration and seeding script:
    ```bash
